@@ -1,0 +1,14 @@
+# Binaries
+/bin/
+/aide
+
+# Temporary files
+*.log
+*.tmp
+
+# Dependency directories
+/vendor/
+
+# IDE files
+.idea/
+*.code-workspace
